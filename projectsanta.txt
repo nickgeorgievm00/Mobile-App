@@ -1,0 +1,4 @@
+Мобилни приложения Проект - "Тефтерът на Дядо Коледа"
+  - 2 activities - Main и Database
+  - Работа с локална DB sqlite3
+  * REST Server
